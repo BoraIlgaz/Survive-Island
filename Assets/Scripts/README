@@ -1,0 +1,32 @@
+BU DOSYALARIN HEPSİ "CharacterController" Scriptinde mevcut: kamera haraketleri yürümek altyazılar animasyon kullanımı 
+
+public GameObject cube; kullanırsan uygulamadan sürükle bırak yaparak o nesneyi koyacan
+
+kompanentlere erişmek için:
+  animator = Getcompanent<Animator>(); ile kodu içine attığın objeninkilere erişirsin
+  cameraTransform = Camera.main.transform; ile objeyti buna sürüklerisn
+
+Animator Kullanımı:
+  Animator sekmesinden çizgiler çekebilirsin bool değerler atayabilir ve şart koyabilirsin kod içinde animator.run("animasyonadi"); şeklinde animasyonları çalıştırabilirsin
+
+Velocity anlık konumu gibi düşün velocity.y yükseklik gibi
+
+public TMPro.TMP_Text isim;
+isim.text = "zart zurt"
+
+---------------------------------------------------------
+
+UI Canvas vb. QUEST MANAGER scriptinde mevcut
+other kullanmanın sebebi scripti atadığın objenin dışındaki şeyleri kapsaması için
+
+liste kullanımı List<quest> isim = new List<quest>();
+
+---------------------------------------------------------
+
+Kameranın oyuncuyu takip etmesi gibi kodlar THİRDPERSON CAMERA scriptinde mevcut
+
+info: public transform hedef; buraya player game objesini sürüklküyorsun buda onun transofrm değerlerine ulaşabliyo
+
+---------------------------------------------------------
+
+compare tag ve ontrigger enter(collider other) gibi kodlar QuestTrigger kodunun içinde
