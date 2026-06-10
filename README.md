@@ -1,5 +1,5 @@
 Resim düzenleme programında tasarladığımız görüntüyü Desen olarak tanımlamak için aşağıdakilerden hangisi seçilmelidir?
-Düzenle > Desen TanımlaSoru: 
+Düzenle > Desen Tanımla
 
 Aşağıdakilerden hangisi resim düzenleme programında görüntünün saydamlığını artırmak veya azaltmak için kullandığımız değerin adıdır?
 Dolgu
