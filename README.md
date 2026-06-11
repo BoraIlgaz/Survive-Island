@@ -1,5 +1,5 @@
 Resim düzenleme programında tasarladığımız görüntüyü Desen olarak tanımlamak için aşağıdakilerden hangisi seçilmelidir?
-Düzenle > Desen Tanımla
+Dosya > Komut Dosyaları > Dosya Yığına Yükle
 
 Aşağıdakilerden hangisi resim düzenleme programında görüntünün saydamlığını artırmak veya azaltmak için kullandığımız değerin adıdır?
 Dolgu
