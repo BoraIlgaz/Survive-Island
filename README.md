@@ -6,14 +6,6 @@
 
 ---
 
-## 🎮 Oyunu İndir & Oyna (Download & Play)
-
-Oyun şu anda tamamen oynanabilir ve derlenmiş (build alınmış) durumdadır. Bilgisayarınıza indirip anında test edebilirsiniz:
-
-* 🚀 **Hemen İndir:** [Survive-Island Canlı Demo (Releases)](#) *(Not: Buraya GitHub Releases linkini veya exe dosyanın linkini ekleyebilirsin)*
-
----
-
 ## 🖼️ Oyundan Ekran Görüntüleri (Screenshots)
 
 *Not: Görselleri reponun içinde `Screenshots/` adında bir klasör açıp içine yükledikten sonra aşağıdaki alanlarda sergileyebilirsin.*
