@@ -43,6 +43,17 @@ Proje geliştirilirken temiz kod mimarisine, rün çözümleme algoritmalarına 
 
 ---
 
+
+## 👥 Katkıda Bulunanlar (Contributors)
+
+Bu proje iki kişilik bir ekip tarafından ortaklaşa geliştirilmiştir. Geliştirici profillerine ve GitHub sayfalarına aşağıdaki kartlardan ulaşabilirsiniz:
+
+| <img src="https://github.com/BoraIlgaz.png" width="100px;"/><br /><sub><b>Bora Ilgaz Parlar</b></b></sub> | <img src="https://github.com/Noteas34.png" width="100px;"/><br /><sub><b>Evrencan Türk</b></b></sub> |
+| :---: | :---: |
+| 💻 Developer / Designer <br /> [ canva/portfolio ](https://github.com/BoraIlgaz) | 💻 Developer / Main Repo <br /> [ Noteas34 ](https://github.com/Noteas34) |
+
+---
+
 ## 🚀 Projeyi Editörde Çalıştırma (How to Run)
 
 Eğer projeyi Unity Editor üzerinde açıp kaynak kodlarını incelemek isterseniz aşağıdaki adımları takip edebilirsiniz:
