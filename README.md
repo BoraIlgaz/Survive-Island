@@ -1,82 +1,80 @@
 # 🏝️ Survive-Island: 3D Mystery & Survival Game
 
-**Survive-Island**, Unity motoru kullanılarak C# ile geliştirilmiş, hikaye odaklı bir 3D hayatta kalma ve gizem oyunudur. Bir uçak kazası sonrası gizemli bir adada mahsur kalan bir karakterin hayatta kalma mücadelesini ve adanın derinliklerindeki sırları çözerek kaçış hikayesini konu alır.
+**Survive-Island** is a story-driven 3D mystery and survival game developed with C# using the Unity engine. It follows the survival struggle of a character stranded on a mysterious island after a plane crash, and their escape story by uncovering the secrets hidden deep within the island.
 
-> 🤝 *Bu proje, [Evrencan Türk](https://github.com/Noteas34) ile birlikte geliştirilmiş ortak bir ekip çalışmasıdır.*
+> 🤝 *This project is a joint team effort developed together with [Evrencan Türk](https://github.com/Noteas34).*
 
 ---
 
+## 🖼️ Project Screenshots
 
-## 🖼️ Oyundan Ekran Görüntüleri (Screenshots)
+*Note: You can display the images in the fields below after creating a folder named `Screenshots/` inside the repository and uploading them into it.*
 
-*Not: Görselleri reponun içinde `Screenshots/` adında bir klasör açıp içine yükledikten sonra aşağıdaki alanlarda sergileyebilirsin.*
-
-| Ada Atmosferi & Keşif | Gizemli Duvar Yazıları |
+| Island Atmosphere & Exploration | Mysterious Wall Inscriptions |
 | :---: | :---: |
 | ![Island Gameplay](/gameplay1.png) | ![Mysterious Runes](/gameplay2.png) |
 
-| Helikopter ile Kaçış |
+| Escape via Helicopter |
 | :---: |
 | ![Escape Scene](gameplay4.png) |
 
 ---
 
-## 📺 Oyun Tanıtım Videosu (Gameplay Video)
+## 📺 Gameplay Video
 
-Projenin oynanış dinamiklerini, atmosferini ve rün tercüme mekaniklerini içeren yüksek kaliteli tanıtım videosuna Google Drive üzerinden erişebilirsiniz.
+You can access the high-quality promotional video, which includes the gameplay dynamics, atmosphere, and rune translation mechanics of the project, via Google Drive.
 
-* 🌐 **Canlı Video Linki:** [Survive-Island Oynanış Videosunu İzle](https://drive.google.com/file/d/1ineNplY5ebDN16jETpBqKp4xEw3ljgrm/view?usp=sharing)
+* 🌐 **Live Video Link:** [Watch Survive-Island Gameplay Video](https://drive.google.com/file/d/1ineNplY5ebDN16jETpBqKp4xEw3ljgrm/view?usp=sharing)
 
-> 💡 **Bilgisayardan İnceleyenler İçin:** Telefonunuzun kamerasını kullanarak aşağıdaki QR kod üzerinden tanıtım videosuna anında mobil olarak da göz atabilirsiniz:
+> 💡 **For Those Reviewing on a Computer:** You can immediately take a look at the promotional video on mobile via the QR code below using your phone's camera:
 > 
 > <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/1ineNplY5ebDN16jETpBqKp4xEw3ljgrm/view?usp=sharing" width="150" alt="Survive-Island Video QR Code"/>
 
 ---
 
-## 📖 Oyunun Hikayesi ve Amacı
+## 📖 Story and Objective of the Game
 
-Bir uçak kazası sonrası gözlerinizi ıssız bir adada açıyorsunuz. İlk amacınız temel görevleri yerine getirerek **hayatta kalmak ve etrafı araştırmak**.
+After a plane crash, you open your eyes on a deserted island. Your primary goal is to **survive and investigate the surroundings** by completing basic tasks.
 
-* 🧩 **Gizem:** Etrafı keşfettikçe duvarlarda daha önce hiç görmediğiniz gizemli yazılar ve rünler olduğunu fark ediyorsunuz.
-* 📚 **İpucu:** Uçak esnasında yan koltuğunuzdaki yolcunun tam da bu yazılarla ilgili kadim bilgiler içeren bir ansiklopedi okuduğunu hatırlıyorsunuz! Etrafa saçılan uçak enkazı ve bavulların arasından bu **kayıp ansiklopediyi** bulmanız gerekiyor.
-* 📜 **Gerçek:** Ansiklopediyi bulup duvarlardaki yazıları tercüme ettiğinizde korkunç bir gerçeği öğreniyorsunuz: *Bu ada, yılda sadece 3 günlüğüne su yüzeyine çıkmaktadır!*
-* 🚁 **Kaçış:** Zaman dolmadan önce adayı altüst edip gizlenmiş bir **işaret fişeği** bulmalı, helikopteri çağırarak bu lanetli adadan kaçmalısınız.
-
----
-
-## 🛠️ Teknik Altyapı & Asset Yönetimi
-
-Proje geliştirilirken temiz kod mimarisine, rün çözümleme algoritmalarına ve harici varlıkların (asset) optimizasyonuna dikkat edilmiştir:
-
-* **Oyun Motoru:** Unity 3D
-* **Programlama Dili:** C#
-* **Modelleme & Görsel Varlıklar:** Sketchfab ve Unity Asset Store (Karakter tasarımları, ağaçlar, çevre elementleri ve bavul modelleri).
-* **Animasyonlar:** Mixamo entegrasyonu ile karakter hareketleri, koşma, arama ve etkileşim animasyonları sisteme dahil edilmiştir.
+* 🧩 **Mystery:** As you explore the surroundings, you realize there are mysterious inscriptions and runes on the walls that you have never seen before.
+* 📚 **Clue:** You remember that during the flight, the passenger in the seat next to you was reading an encyclopedia containing ancient information about exactly these inscriptions! You need to find this **lost encyclopedia** among the plane wreckage and luggage scattered around.
+* 📜 **Truth:** When you find the encyclopedia and translate the inscriptions on the walls, you learn a terrifying truth: *This island surfaces only 3 days a year!*
+* 🚁 **Escape:** Before the time runs out, you must turn the island upside down, find a hidden **flare gun**, and call the helicopter to escape from this cursed island.
 
 ---
 
+## 🛠️ Technical Infrastructure & Asset Management
 
-## 👥 Katkıda Bulunanlar (Contributors)
+While developing the project, attention was paid to clean code architecture, rune decoding algorithms, and the optimization of external assets:
 
-Bu proje iki kişilik bir ekip tarafından ortaklaşa geliştirilmiştir. Geliştirici profillerine ve GitHub sayfalarına aşağıdaki kartlardan ulaşabilirsiniz:
+* **Game Engine:** Unity 3D
+* **Programming Language:** C#
+* **Modeling & Visual Assets:** Sketchfab and Unity Asset Store (Character designs, trees, environmental elements, and suitcase models).
+* **Animations:** Character movements, running, searching, and interaction animations have been integrated into the system via Mixamo integration.
 
-| <img src="https://github.com/BoraIlgaz.png" width="100px;"/><br /><sub><b>Bora Ilgaz Parlar</b></b></sub> | <img src="https://github.com/Noteas34.png" width="100px;"/><br /><sub><b>Evrencan Türk</b></b></sub> |
+---
+
+## 👥 Contributors
+
+This project has been developed jointly by a two-person team. You can access the developer profiles and GitHub pages from the cards below:
+
+| <img src="https://github.com/BoraIlgaz.png" width="100px;"/><br /><sub><b>Bora Ilgaz Parlar</b></sub> | <img src="https://github.com/Noteas34.png" width="100px;"/><br /><sub><b>Evrencan Türk</b></sub> |
 | :---: | :---: |
 | 💻 Developer / Designer <br /> [ BoraIlgaz ](https://github.com/BoraIlgaz) | 💻 Developer / Main Repo <br /> [ Noteas34 ](https://github.com/Noteas34) |
 
 ---
 
-## 🚀 Projeyi Editörde Çalıştırma (How to Run)
+## 🚀 How to Run
 
-Eğer projeyi Unity Editor üzerinde açıp kaynak kodlarını incelemek isterseniz aşağıdaki adımları takip edebilirsiniz:
+If you want to open the project in the Unity Editor and examine the source codes, you can follow the steps below:
 
 ```text
-1. Repoyu bilgisayarınıza klonlayın:
-   git clone https://github.com/BoraIlgaz/Survive-Island.git
+1. Clone the repository to your computer:
+   git clone [https://github.com/BoraIlgaz/Survive-Island.git](https://github.com/BoraIlgaz/Survive-Island.git)
 
-2. Unity Hub uygulamasını açın.
-   - Projects -> Add butonuna tıklayarak indirdiğiniz proje klasörünü seçin.
-   - Projenin uyumlu olduğu Unity sürümüyle projeyi başlatın.
+2. Open the Unity Hub application.
+   - Click the Projects -> Add button and select the project folder you downloaded.
+   - Launch the project with the compatible Unity version.
 
-3. Projeyi başlatın:
-   - Assets/Scenes/ klasörü altındaki ana sahneyi (Scene) açarak Play butonuna basın.
+3. Launch the project:
+   - Open the main scene under the Assets/Scenes/ folder and press the Play button.
