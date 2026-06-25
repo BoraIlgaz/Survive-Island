@@ -21,6 +21,18 @@
 
 ---
 
+## 📺 Oyun Tanıtım Videosu (Gameplay Video)
+
+Projenin oynanış dinamiklerini, atmosferini ve rün tercüme mekaniklerini içeren yüksek kaliteli tanıtım videosuna Google Drive üzerinden erişebilirsiniz.
+
+* 🌐 **Canlı Video Linki:** [Survive-Island Oynanış Videosunu İzle](https://drive.google.com/file/d/1ineNplY5ebDN16jETpBqKp4xEw3ljgrm/view?usp=sharing)
+
+> 💡 **Bilgisayardan İnceleyenler İçin:** Telefonunuzun kamerasını kullanarak aşağıdaki QR kod üzerinden tanıtım videosuna anında mobil olarak da göz atabilirsiniz:
+> 
+> <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://drive.google.com/file/d/1ineNplY5ebDN16jETpBqKp4xEw3ljgrm/view?usp=sharing" width="150" alt="Survive-Island Video QR Code"/>
+
+---
+
 ## 📖 Oyunun Hikayesi ve Amacı
 
 Bir uçak kazası sonrası gözlerinizi ıssız bir adada açıyorsunuz. İlk amacınız temel görevleri yerine getirerek **hayatta kalmak ve etrafı araştırmak**.
