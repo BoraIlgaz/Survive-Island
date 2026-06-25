@@ -13,11 +13,11 @@
 
 | Ada Atmosferi & Keşif | Gizemli Duvar Yazıları |
 | :---: | :---: |
-| ![Island Gameplay](Screenshots/gameplay1.png) | ![Mysterious Runes](Screenshots/gameplay2.png) |
+| ![Island Gameplay](/gameplay1.png) | ![Mysterious Runes](/gameplay2.png) |
 
 | Helikopter ile Kaçış |
 | :---: |
-| ![Escape Scene](Screenshots/gameplay4.png) |
+| ![Escape Scene](gameplay4.png) |
 
 ---
 
