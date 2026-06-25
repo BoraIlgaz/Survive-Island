@@ -50,7 +50,7 @@ Bu proje iki kişilik bir ekip tarafından ortaklaşa geliştirilmiştir. Geliş
 
 | <img src="https://github.com/BoraIlgaz.png" width="100px;"/><br /><sub><b>Bora Ilgaz Parlar</b></b></sub> | <img src="https://github.com/Noteas34.png" width="100px;"/><br /><sub><b>Evrencan Türk</b></b></sub> |
 | :---: | :---: |
-| 💻 Developer / Designer <br /> [ canva/portfolio ](https://github.com/BoraIlgaz) | 💻 Developer / Main Repo <br /> [ Noteas34 ](https://github.com/Noteas34) |
+| 💻 Developer / Designer <br /> [ BoraIlgaz ](https://github.com/BoraIlgaz) | 💻 Developer / Main Repo <br /> [ Noteas34 ](https://github.com/Noteas34) |
 
 ---
 
