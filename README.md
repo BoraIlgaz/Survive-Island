@@ -23,8 +23,8 @@ Oyun şu anda tamamen oynanabilir ve derlenmiş (build alınmış) durumdadır. 
 | ![Island Gameplay](Screenshots/gameplay1.png) | ![Mysterious Runes](Screenshots/gameplay2.png) |
 
 | Helikopter ile Kaçış |
-| :---: | :---: |
-| [Escape Scene](Screenshots/gameplay4.png) |
+| :---: |
+| ![Escape Scene](Screenshots/gameplay4.png) |
 
 ---
 
@@ -57,10 +57,3 @@ Eğer projeyi Unity Editor üzerinde açıp kaynak kodlarını incelemek isterse
 1. Bu repoyu bilgisayarınıza clone'layın:
    ```bash
    git clone [https://github.com/BoraIlgaz/Survive-Island.git](https://github.com/BoraIlgaz/Survive-Island.git)
-Unity Hub uygulamasını açın.
-
-Projects -> Add butonuna tıklayarak indirdiğiniz proje klasörünü seçin.
-
-Projenin uyumlu olduğu Unity sürümüyle projeyi başlatın.
-
-Assets/Scenes/ klasörü altındaki ana sahneyi (Scene) açarak Play butonuna basın.
