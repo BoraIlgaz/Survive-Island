@@ -6,6 +6,14 @@
 
 ---
 
+## 🎮 Oyunu İndir & Oyna (Download & Play)
+
+Oyun şu anda tamamen oynanabilir ve derlenmiş (build alınmış) durumdadır. Bilgisayarınıza indirip anında test edebilirsiniz:
+
+* 🚀 **Hemen İndir:** [Survive-Island Canlı Demo (Releases)](#) *(Not: Buraya GitHub Releases linkini veya exe dosyanın linkini ekleyebilirsin)*
+
+---
+
 ## 🖼️ Oyundan Ekran Görüntüleri (Screenshots)
 
 *Not: Görselleri reponun içinde `Screenshots/` adında bir klasör açıp içine yükledikten sonra aşağıdaki alanlarda sergileyebilirsin.*
@@ -44,8 +52,15 @@ Proje geliştirilirken temiz kod mimarisine, rün çözümleme algoritmalarına 
 
 ## 🚀 Projeyi Editörde Çalıştırma (How to Run)
 
-Eğer projeyi Unity Editor üzerinde açıp kaynak kodlarını incelemek isterseniz:
+Eğer projeyi Unity Editor üzerinde açıp kaynak kodlarını incelemek isterseniz aşağıdaki adımları takip edebilirsiniz:
 
-1. Bu repoyu bilgisayarınıza clone'layın:
-   ```bash
-   git clone [https://github.com/BoraIlgaz/Survive-Island.git](https://github.com/BoraIlgaz/Survive-Island.git)
+```text
+1. Repoyu bilgisayarınıza klonlayın:
+   git clone https://github.com/BoraIlgaz/Survive-Island.git
+
+2. Unity Hub uygulamasını açın.
+   - Projects -> Add butonuna tıklayarak indirdiğiniz proje klasörünü seçin.
+   - Projenin uyumlu olduğu Unity sürümüyle projeyi başlatın.
+
+3. Projeyi başlatın:
+   - Assets/Scenes/ klasörü altındaki ana sahneyi (Scene) açarak Play butonuna basın.
